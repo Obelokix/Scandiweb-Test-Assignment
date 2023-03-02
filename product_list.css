@@ -1,0 +1,26 @@
+#content {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#product_display {
+    margin-bottom: 50px;
+}
+
+#footer {
+    margin-top: auto;
+}
+
+#footer_title {
+    margin: 20px 0;
+}
+
+hr {
+    margin: 0;
+    border-top: 1px solid grey;
+}
+
+#delete-product-btn {
+    margin-left: 10px;
+}

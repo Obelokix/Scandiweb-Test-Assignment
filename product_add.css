@@ -1,0 +1,31 @@
+#content {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-size: 18px !important;
+    font-weight: 500;
+}
+
+#footer {
+    margin-top: auto;
+}
+
+#footer_title {
+    margin: 20px 0;
+}
+
+hr {
+    margin: 0;
+    border-top: 1px solid grey;
+}
+
+#cancel {
+    margin-left: 10px;
+}
+
+select {
+    font-size: inherit !important;
+}
